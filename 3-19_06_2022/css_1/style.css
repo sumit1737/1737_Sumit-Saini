@@ -3,3 +3,11 @@ body{
     font-size: 1.15em;
     text-align: justify;
 }
+
+#mytitle{
+    color: chartreuse;
+}
+
+.h1Element{
+    color: yellow;
+}
