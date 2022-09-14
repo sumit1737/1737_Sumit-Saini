@@ -1,0 +1,13 @@
+.foot{
+    /* position:static; */
+    margin-top: 30.8%;
+    width: 100%;
+    background-color: red;
+    color: white;
+    transition: 0.3s all linear;
+}
+
+.foot:hover{
+    scale: 1.2;
+    width: 50%;
+}
